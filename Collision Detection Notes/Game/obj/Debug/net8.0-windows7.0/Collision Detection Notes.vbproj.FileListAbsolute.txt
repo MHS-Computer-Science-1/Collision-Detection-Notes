@@ -1,0 +1,18 @@
+C:\Users\foxrw\Source\Repos\Collision-Detection-Notes\Collision Detection Notes\Game\bin\Debug\net8.0-windows7.0\Collision Detection Notes.exe
+C:\Users\foxrw\Source\Repos\Collision-Detection-Notes\Collision Detection Notes\Game\bin\Debug\net8.0-windows7.0\Collision Detection Notes.deps.json
+C:\Users\foxrw\Source\Repos\Collision-Detection-Notes\Collision Detection Notes\Game\bin\Debug\net8.0-windows7.0\Collision Detection Notes.runtimeconfig.json
+C:\Users\foxrw\Source\Repos\Collision-Detection-Notes\Collision Detection Notes\Game\bin\Debug\net8.0-windows7.0\Collision Detection Notes.dll
+C:\Users\foxrw\Source\Repos\Collision-Detection-Notes\Collision Detection Notes\Game\bin\Debug\net8.0-windows7.0\Collision Detection Notes.pdb
+C:\Users\foxrw\Source\Repos\Collision-Detection-Notes\Collision Detection Notes\Game\obj\Debug\net8.0-windows7.0\Game.Form1.resources
+C:\Users\foxrw\Source\Repos\Collision-Detection-Notes\Collision Detection Notes\Game\obj\Debug\net8.0-windows7.0\Game.Resources.resources
+C:\Users\foxrw\Source\Repos\Collision-Detection-Notes\Collision Detection Notes\Game\obj\Debug\net8.0-windows7.0\Collision Detection Notes.vbproj.GenerateResource.cache
+C:\Users\foxrw\Source\Repos\Collision-Detection-Notes\Collision Detection Notes\Game\obj\Debug\net8.0-windows7.0\Collision Detection Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxrw\Source\Repos\Collision-Detection-Notes\Collision Detection Notes\Game\obj\Debug\net8.0-windows7.0\Collision Detection Notes.AssemblyInfoInputs.cache
+C:\Users\foxrw\Source\Repos\Collision-Detection-Notes\Collision Detection Notes\Game\obj\Debug\net8.0-windows7.0\Collision Detection Notes.AssemblyInfo.vb
+C:\Users\foxrw\Source\Repos\Collision-Detection-Notes\Collision Detection Notes\Game\obj\Debug\net8.0-windows7.0\Collision Detection Notes.vbproj.CoreCompileInputs.cache
+C:\Users\foxrw\Source\Repos\Collision-Detection-Notes\Collision Detection Notes\Game\obj\Debug\net8.0-windows7.0\Collision Detection Notes.sourcelink.json
+C:\Users\foxrw\Source\Repos\Collision-Detection-Notes\Collision Detection Notes\Game\obj\Debug\net8.0-windows7.0\Collision Detection Notes.dll
+C:\Users\foxrw\Source\Repos\Collision-Detection-Notes\Collision Detection Notes\Game\obj\Debug\net8.0-windows7.0\refint\Collision Detection Notes.dll
+C:\Users\foxrw\Source\Repos\Collision-Detection-Notes\Collision Detection Notes\Game\obj\Debug\net8.0-windows7.0\Collision Detection Notes.pdb
+C:\Users\foxrw\Source\Repos\Collision-Detection-Notes\Collision Detection Notes\Game\obj\Debug\net8.0-windows7.0\Collision Detection Notes.genruntimeconfig.cache
+C:\Users\foxrw\Source\Repos\Collision-Detection-Notes\Collision Detection Notes\Game\obj\Debug\net8.0-windows7.0\ref\Collision Detection Notes.dll

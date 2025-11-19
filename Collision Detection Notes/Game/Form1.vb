@@ -1,9 +1,10 @@
-﻿Public Class Form1
+Public Class Form1
     Dim frame As Bitmap
     Dim g, gFinal As Graphics
     Dim up, down, left, right As Boolean
     Dim shipX, shipY As Integer
     Dim moonX, moonY As Integer
+    Dim wormX, wormY As Integer
 
     Private Sub GameTimer_Tick(sender As Object, e As EventArgs) Handles GameTimer.Tick
         'DRAW STUFF HERE
@@ -37,7 +38,9 @@
         End If
 
         'Draw a wormhole
-        g.DrawImage(My.Resources.wormhole, getWidth() - My.Resources.wormhole.Width, getHeight() - My.Resources.wormhole.Height)
+        wormX = 625
+        wormY = 350
+        g.DrawImage(My.Resources.wormhole, wormX, wormY)
 
         'COLLISIONS
         'Make hitboxes
